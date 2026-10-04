@@ -1,0 +1,182 @@
+@font-face {
+    font-family: southera;
+    src: url(fonts/Southera.ttf);
+}
+
+@font-face {
+    font-family: trial;
+    src: url(fonts/DJ5CTRIAL.ttf);
+}
+
+@font-face {
+    font-family: absolution;
+    src: url(fonts/Absolution.ttf);
+}
+
+@font-face {
+    font-family: Star;
+    src: url(fonts/Always\ in\ the\ Star.ttf);
+}
+
+#a2 {
+    color: beige;
+    font-size: 50px;
+    font-family: Star;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    text-decoration: none;
+}
+
+a {
+    color: beige;
+    font-size: 50px;
+    font-family: Star;
+    position: absolute;
+    top: 1225px;
+    right: 50px;
+    text-decoration: none;
+}
+
+body{
+    background-image: url("images/camille-brodard-3WpQmIJppfg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.paper{
+    position: absolute;
+    left: 400px;
+    size: 100px;
+    box-shadow: 15px 15px 15px rgba(65, 45, 29, 0.5);
+}
+
+#p1{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 470px;
+}
+
+#p2{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p3{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p4{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p5{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p6{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p7{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p8{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p9{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p10{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p11{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p12{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p13{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p14{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p15{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p16{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}

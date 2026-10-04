@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<title>Happy Teacher's Day!</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <script src="script.js"></script>
+<h1 id="dear">Dear</h1>
+<h1 id="miss">Miss Rogelyn,</h1>
+
+<a href="FullLetter.html">
+    ➳ Read the full letter here!
+</a>
+
+</body>
+
+    <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
+    <style>
+       
+    </style>
+</head>
+<body>
+    <div class="envlope-wrapper">
+        <div id="envelope" class="close">
+            <div class="wax-seal"></div>
+            <div class="front flap"></div>
+            <div class="front pocket"></div>
+            <div class="letter">
+                <div class="letter-corner corner-tl"></div>
+                <div class="letter-corner corner-br"></div>
+                <div class="message">
+                    <p>Happy Teacher's Day,</p>
+                    <p>Miss Gel!</p>
+                    <p> You might</p>
+                </div>
+            </div>
+            <div class="hearts">
+                <div class="heart a1"></div>
+                <div class="heart a2"></div>
+                <div class="heart a3"></div>
+            </div>
+            <div class="sparkles">
+                <div class="sparkle s1"></div>
+                <div class="sparkle s2"></div>
+                <div class="sparkle s3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="reset">
+        <button id="reset">Close Envelope</button>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            const envelope = $('#envelope');
+            const btnOpen = $("#open");
+            const btnReset = $("#reset");
+
+            envelope.on('click', open);
+            btnOpen.on('click', open);
+            btnReset.on('click', close);
+
+            function open() {
+                envelope.removeClass("close").addClass("open");
+            }
+
+            function close() {
+                envelope.removeClass("open").addClass("close");
+            }
+        });
+    </script>
+</body>
+</html>

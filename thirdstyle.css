@@ -1,0 +1,123 @@
+@font-face {
+    font-family: trial;
+    src: url(fonts/DJ5CTRIAL.ttf);
+}
+
+@font-face {
+    font-family: Billa;
+    src: url(fonts/BillaMount-Regular.ttf);
+}
+
+@font-face {
+    font-family: Aston;
+    src: url(fonts/Aston\ Script.ttf);
+}
+
+@font-face {
+    font-family: Star;
+    src: url(fonts/Always\ in\ the\ Star.ttf);
+}
+
+body{
+    background-image: url("images/camille-brodard-3WpQmIJppfg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.paper{
+    position: absolute;
+    left: 400px;
+    size: 100px;
+    box-shadow: 15px 15px 15px rgba(65, 45, 29, 0.5);
+}
+
+#p17{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p18{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p19{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p20{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p21{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#p22{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#sig{
+    font-family: star;
+    font-size: 50px;
+    position: relative;
+    left: 750px;
+}
+
+#sig2{
+    font-family: Aston;
+    font-size: 50px;
+    position: relative;
+    bottom: 50px;
+    left: 850px;
+}
+
+#a3 {
+    color: beige;
+    font-size: 50px;
+    font-family: Star;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    text-decoration: none;
+}
+
+#note{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
+
+#note2{
+    font-family: trial;
+    font-size: 28px;
+    position: relative;
+    top: 45px;
+    left: 430px;
+}
